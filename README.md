@@ -61,13 +61,7 @@ Welcome to the repository for the projects completed in **Week 11** of the bootc
 -->
 
 
-## Overview<!-- Required -->
-<!-- 
-* Here you may add information about how 
-* 
-* and why to use this project.
--->
-In this week, we focused on the following key areas:
+
 
 
 # **Week 9 - ASP.NET Core Web API Development**
